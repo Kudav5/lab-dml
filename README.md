@@ -26,7 +26,7 @@ ddl script
 5. Tampilkan record atau data yang tanggal kelahirannya lebih dari atau sama dengan 1996-1-2!
 
 `select*from mahasiswa where tgl_lahir >= 1996-01-02;`
-![d1](foto/d5.png)
+![d1](foto/da.png)
 
 6. Tampilkan semua Mahasiswa yang berasal dari Bekasi dan berjenis kelamin perempuan !
 

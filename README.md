@@ -1,7 +1,6 @@
 # **Tugas Praktikum**
 ## **Praktikum 1**
-
-ddl script
+ada di dokumen
 ## **Praktikum 2**
 1. Tampilkan semua isi /record tabel !
 
